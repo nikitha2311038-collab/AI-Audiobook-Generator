@@ -1,0 +1,6 @@
+PyPDF2
+python-docx
+pytesseract
+Pillow
+pyttsx3
+google-generativeai
